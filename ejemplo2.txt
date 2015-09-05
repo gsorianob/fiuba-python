@@ -1,0 +1,7 @@
+Es la primer cadenaSeguida de la segunda con un fin de linea
+1. Primero de la lista sin fin de línea. 2. Segundo string con fin de línea.
+3. Tercero con/
+.
+4. y último.Esto lo estoy agregando.
+.Y estas dos líneas también con un \n al final
+ de cada una.

@@ -1,0 +1,19 @@
+(lp0
+I1
+aI2
+aI3
+a.N.(lp1
+I4
+aI5
+a.S'Hola mundo'
+p2
+.(dp3
+S'campo1'
+p4
+I1
+sS'campo2'
+p5
+S'dos'
+p6
+s.I1
+.
