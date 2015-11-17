@@ -1,5 +1,5 @@
 # encoding: utf8
-from pickle import pickle
+import pickle
 
 def guardar_en_archivo(archivo, contenido):
     """Guarda lo que le pasen como segundo parámetro en el archivo 
